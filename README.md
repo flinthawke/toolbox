@@ -1,11 +1,11 @@
 # toolbox
 
-Executable files for **Flint's Toolbox**.
+A collection of tools from **Flint's Toolbox**.
 
-For documentation, usage, and the latest information:
+For documentation and usage:  
 https://blackship.kr
 
-**플린트의 공구함** 실행 파일 저장소입니다.
+**플린트의 공구함** 도구 창고입니다.
 
-설명, 사용 방법 및 최신 정보:
+설명과 사용 방법:  
 https://blackship.kr
