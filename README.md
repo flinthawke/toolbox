@@ -1,13 +1,13 @@
 # toolbox
 
-A collection of practical utilities created by Flint.
+플린트가 만든 실용적인 유틸리티를 모아둔 공구함입니다.
 
-Website:<br>
+홈페이지:<br>
 https://blackship.kr
 
 ---
 
-플린트가 만든 실용적인 유틸리티를 모아둔 공구함입니다.
+A collection of practical utilities created by Flint.
 
-홈페이지:<br>
+Website:<br>
 https://blackship.kr
